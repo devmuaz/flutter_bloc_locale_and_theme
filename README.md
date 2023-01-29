@@ -5,31 +5,31 @@ real life app by using the [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
 ## Screenshots
 
-#### Light (Ar, En)
+##### Light (Ar, En)
 
 <p align='center'>
 	<img
-		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/images/light-ar.png?raw=true'
+		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/screenshots/blob/master/images/light-ar.png?raw=true'
 		title='1'
 		height='200'
 	/> &nbsp;
 	<img
-		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/images/light-en.png?raw=true'
+		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/screenshots/blob/master/images/light-en.png?raw=true'
 		title='2'
 		height='200'
 	/>
 </p>
 
-#### Dark (Ar, En)
+##### Dark (Ar, En)
 
 <p align='center'>
 	<img
-		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/images/dark-ar.png?raw=true'
+		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/screenshots/blob/master/images/dark-ar.png?raw=true'
 		title='1'
 		height='200'
 	/> &nbsp;
 	<img
-		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/images/dark-en.png?raw=true'
+		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/screenshots/blob/master/images/dark-en.png?raw=true'
 		title='2'
 		height='200'
 	/>

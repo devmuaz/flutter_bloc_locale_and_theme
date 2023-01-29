@@ -1,5 +1,5 @@
 name: flutter_bloc_locale_and_theme
-description: A new Flutter project.
+description: A flutter demo app that demonstrate the usage of both Locales and Themes
 
 publish_to: "none"
 

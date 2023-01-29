@@ -11,12 +11,12 @@ real life app by using the [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 	<img
 		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/screenshots/light-ar.png?raw=true'
 		title='1'
-		height='200'
+		height='500'
 	/> &nbsp;
 	<img
 		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/screenshots/light-en.png?raw=true'
 		title='2'
-		height='200'
+		height='500'
 	/>
 </p>
 
@@ -26,12 +26,12 @@ real life app by using the [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 	<img
 		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/screenshots/dark-ar.png?raw=true'
 		title='1'
-		height='200'
+		height='500'
 	/> &nbsp;
 	<img
 		src='https://github.com/devmuaz/flutter_bloc_locale_and_theme/blob/master/screenshots/dark-en.png?raw=true'
 		title='2'
-		height='200'
+		height='500'
 	/>
 </p>
 
